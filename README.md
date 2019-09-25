@@ -110,4 +110,4 @@ merely to the files in this repository (the Nix expressions, build
 scripts, NixOS modules, etc.). It also might not apply to patches
 included in Nixpkgs, which may be derivative works of the packages to
 which they apply. The aforementioned artifacts are all covered by the
-licenses of the respective packages.
+licenses of the respective packages
